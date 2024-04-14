@@ -12,6 +12,10 @@ Feeling curious? I've described the implementation on my blog: [Learning to Fly.
 
 TODO
 
+## Reference
+
+[Shorelark](https://github.com/Patryk27/shorelark)
+
 ## License
 
 [MIT](https://github.com/CuB3y0nd/avolve/blob/master/LICENSE) © [CuB3y0nd](https://www.cubeyond.net)
